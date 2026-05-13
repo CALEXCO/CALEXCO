@@ -102,8 +102,12 @@ func main() {
 
 <div align="center">
 
-<a href="https://github.com/chatapchat07">
+<a href="https://github.com/CALEXCO">
   <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/alexortg">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </div>
