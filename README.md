@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### DevOps Engineer • Backend Developer • Go Enthusiast
+### DevOps Engineer • Backend Developer • Go/Rust Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Building+scalable+systems;DevOps+%26+Backend+Development;Learning+and+growing+every+day;Go+%7C+Kubernetes+%7C+AWS+%7C+Rust" alt="Typing SVG" />
 
