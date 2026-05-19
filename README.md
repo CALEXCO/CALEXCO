@@ -31,6 +31,7 @@ Passionate About:
   - Infrastructure as Code
   - Clean architecture
   - Building new things!
+  - AI has its place in my workflow, but not in my repos. Every line here is mine.
 ```
 
 ---
