@@ -42,7 +42,7 @@ Passionate About:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=go,rust,c" />
+<img src="https://skillicons.dev/icons?i=go,java" />
 
 ### DevOps & Cloud
 
